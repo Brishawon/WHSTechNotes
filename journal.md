@@ -9,3 +9,17 @@ BOLT as a compass.You can use those lux values to create dynamic programs that r
 
 # September 17, 2024
 This is a free week
+
+# September 27, 2024
+In your digital GitHub journal, write a paragraph explaining why following instructions exactly as they are given is important when learning how to code?
+
+In your response, consider the following:
+
+How does precision affect the outcome of a program?
+probably not that mutch.
+What can happen if steps or details are missed in coding?
+your grade will decrease.
+Why is it important to develop good habits of attention to detail early in your coding journey?
+because you have too do all of the work and if you dont you grade will go down.
+Remember to use Claim, Evidence, and Reasoning (C.E.R.) to structure your response.
+

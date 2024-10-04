@@ -23,3 +23,5 @@ Why is it important to develop good habits of attention to detail early in your 
 because you have too do all of the work and if you dont you grade will go down.
 Remember to use Claim, Evidence, and Reasoning (C.E.R.) to structure your response.
 
+# October 3, 2024
+it impact your life because it can be diffulcult or it can be much better if you can under stand

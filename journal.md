@@ -25,3 +25,19 @@ Remember to use Claim, Evidence, and Reasoning (C.E.R.) to structure your respon
 
 # October 3, 2024
 it impact your life because it can be diffulcult or it can be much better if you can under stand
+
+# October 7, 2024
+Research a job or career path in the field of computer science that interests you. In your journal entry, write a paragraph or more addressing the following:
+
+Job Title: What is the job or career path you researched?
+Pflugerville College Computer Science Tutor
+Job Description: What are the main responsibilities or tasks for this role?
+he Varsity Tutors platform has thousands of students looking for online College Computer Science tutors nationally and in Pflugerville
+Skills Required: What programming languages, tools, or skills are important for this position?
+Integrated development environments (IDEs): Used for computer programming, some popular IDEs include Eclipse, which is written in Java, and Visual Studio Code 
+Education and Experience: What level of education or experience is typically needed for this role?
+You have the ability to personalize lessons for each student
+Career Growth: What opportunities for growth or advancement are available in this career?
+Develops skills like communication, conflict resolution, and team management to prepare employees for managerial roles
+Reflection: How does this job align with your interests and goals in computer science?
+Provide details about your goals, but keep your answer concise and high-level. 

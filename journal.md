@@ -41,3 +41,17 @@ Career Growth: What opportunities for growth or advancement are available in thi
 Develops skills like communication, conflict resolution, and team management to prepare employees for managerial roles
 Reflection: How does this job align with your interests and goals in computer science?
 Provide details about your goals, but keep your answer concise and high-level. 
+
+Last week we looked at computer science jobs. This week we'll look at applying computer science to jobs in any industry. I'd like you to consider why is learning to code valuable regardless of the industry you choose to work in?
+
+Write a paragraph or more focused on the following:
+
+#October 15, 2024
+How can coding improve problem-solving skills?
+so you can learn how to make game
+How might understanding code help you in industries that aren’t directly related to technology, such as healthcare, finance, or education?
+probably if you can understand you can do more
+How does coding enhance creativity or collaboration?
+if you are popular or have a community
+Provide examples where coding knowledge might benefit professionals in various fields. Remember to use specific examples and reflect on how coding can impact your future career path, even if it’s not directly related to computer science.
+

@@ -46,7 +46,7 @@ Last week we looked at computer science jobs. This week we'll look at applying c
 
 Write a paragraph or more focused on the following:
 
-#October 15, 2024
+# October 15, 2024
 How can coding improve problem-solving skills?
 so you can learn how to make game
 How might understanding code help you in industries that aren’t directly related to technology, such as healthcare, finance, or education?

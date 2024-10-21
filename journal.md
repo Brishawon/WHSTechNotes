@@ -55,3 +55,19 @@ How does coding enhance creativity or collaboration?
 if you are popular or have a community
 Provide examples where coding knowledge might benefit professionals in various fields. Remember to use specific examples and reflect on how coding can impact your future career path, even if it’s not directly related to computer science.
 
+The Benefits and Risks of Artificial Intelligence
+
+Artificial Intelligence (AI) is transforming industries like healthcare, education, and business, but it also comes with challenges. In this journal entry, write about how AI has the potential to help improve our lives. Then, consider some ways in which AI could cause harm, especially in areas like privacy, jobs, and security. Be sure to support your thoughts with examples for both sides.
+
+# October 21, 2024
+The Benefits and Risks of Artificial Intelligence
+
+Artificial Intelligence (AI) is transforming industries like healthcare, education, and business, but it also comes with challenges. In this journal entry, write about how AI has the potential to help improve our lives. Then, consider some ways in which AI could cause harm, especially in areas like privacy, jobs, and security. Be sure to support your thoughts with examples for both sides.
+
+Helpful: How does AI improve efficiency and innovation in industries like healthcare, education, or transportation?
+How Does AI Promote Innovation? AI transforms business operations and processes by automating routine tasks, extracting insights from data sets, and enhancing customer experiences. 
+Harmful: What are some risks AI poses, such as job automation, bias in algorithms, or cybersecurity threats?
+Machine Learning bias, also known as algorithm bias or Artificial Intelligence bias, refers to the tendency of algorithms to reflect human biases.
+Write two paragraphs—one focusing on the benefits and one on the potential risks.
+On the risk side, when one drives or gets on the road in general, there is a risk of getting caught in a traffic accident and getting badly injured. Potential risk refers to any risk associated with an action that is possible, in certain circumstances. A risk refers to a threat or damage that may occur in operations of any work. Impacts of Climate Change on Biodiversity and Ecosystem Services: Current Trends.
+You can use the following resources to inform your response:

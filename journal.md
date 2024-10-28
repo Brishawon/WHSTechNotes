@@ -71,3 +71,11 @@ Machine Learning bias, also known as algorithm bias or Artificial Intelligence b
 Write two paragraphs—one focusing on the benefits and one on the potential risks.
 On the risk side, when one drives or gets on the road in general, there is a risk of getting caught in a traffic accident and getting badly injured. Potential risk refers to any risk associated with an action that is possible, in certain circumstances. A risk refers to a threat or damage that may occur in operations of any work. Impacts of Climate Change on Biodiversity and Ecosystem Services: Current Trends.
 You can use the following resources to inform your response:
+
+# October 28, 2024
+With the upcoming election, technology plays a huge role in various aspects, from voting machines to social media. 
+How do you think computer science and technology impact the election process? 
+the impact of the computer science and tech is how will you make games or how much longer you are going to make a game or you want to play or create game that no one might not play.
+Discuss one positive impact and one potential challenge or concern. Be sure to provide specific examples of how programming, security, or technology influences elections today.
+
+

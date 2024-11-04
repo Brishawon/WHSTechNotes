@@ -78,4 +78,39 @@ How do you think computer science and technology impact the election process?
 the impact of the computer science and tech is how will you make games or how much longer you are going to make a game or you want to play or create game that no one might not play.
 Discuss one positive impact and one potential challenge or concern. Be sure to provide specific examples of how programming, security, or technology influences elections today.
 
+In today’s digital world, sharing and publishing content online is more common than ever. Whether you’re contributing to a project, posting on social media, or submitting work for class, it’s important to think about the kinds of information you’re sharing and how it can be used.
+
+Reflect on the following questions:
+
+Why is it important to protect your personal and sensitive information when publishing online?
+
+What steps can you take to ensure that the information you share on platforms like GitHub or social media remains secure?
+
+Have you ever shared something online that you later realized was too personal? How would you handle that differently now?
+
+How can you balance being open and collaborative in online spaces (like working with others on coding projects) while still protecting your privacy?
+
+#November 4, 2024
+
+In today’s digital world, sharing and publishing content online is more common than ever. Whether you’re contributing to a project, posting on social media, or submitting work for class, it’s important to think about the kinds of information you’re sharing and how it can be used.
+
+Reflect on the following questions:
+
+Why is it important to protect your personal and sensitive information when publishing online? 
+if sensitive data falls into the wrong hands, it can lead to fraud, identity theft, or similar harms.
+
+What steps can you take to ensure that the information you share on platforms like GitHub or social media remains secure?
+Authentication to GitHub.
+Create a strong password.
+Switching between accounts.
+Verifying devices on sign in.
+
+Have you ever shared something online that you later realized was too personal? How would you handle that differently now?
+none of the stuff that i share on the internet is not that personal.
+
+How can you balance being open and collaborative in online spaces (like working with others on coding projects) while still protecting your privacy?
+limit data access and sharing to only those who need it and only for the purposes that are relevant and necessary for your collaboration
+
+Write a paragraph or more considering these questions. Include examples of actions you can take to safeguard your own data, and reflect on why being cautious online is important for your personal and professional life.
+most of my life is fine but mostly i try my best with my family helping.
 

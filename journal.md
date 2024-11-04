@@ -112,5 +112,4 @@ How can you balance being open and collaborative in online spaces (like working 
 limit data access and sharing to only those who need it and only for the purposes that are relevant and necessary for your collaboration
 
 Write a paragraph or more considering these questions. Include examples of actions you can take to safeguard your own data, and reflect on why being cautious online is important for your personal and professional life.
-most of my life is fine but mostly i try my best with my family helping.
-
+Ways to protect personal data include using privacy settings, reviewing tagged posts, using strong passwords and multi-factor authentication, and being cautious with email attachments and links. There are numerous safeguards in place, including the use of technology to protect data for example by restricting access (using passwords or swipe cards to control access to data), or using encryption so the data can only be read with a code. IT systems must be kept up-to-date to protect against viruses and hacking.

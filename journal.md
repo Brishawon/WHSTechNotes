@@ -115,6 +115,7 @@ Write a paragraph or more considering these questions. Include examples of actio
 Ways to protect personal data include using privacy settings, reviewing tagged posts, using strong passwords and multi-factor authentication, and being cautious with email attachments and links. There are numerous safeguards in place, including the use of technology to protect data for example by restricting access (using passwords or swipe cards to control access to data), or using encryption so the data can only be read with a code. IT systems must be kept up-to-date to protect against viruses and hacking.
 
 #November 12, 2024
+
 Choose a current event that interests you or impacts your community.
 
 In a paragraph, briefly summarize the event and explain how it relates to any of the concepts we’ve been learning in class (e.g., problem-solving, technology, or data analysis).

@@ -90,7 +90,7 @@ Have you ever shared something online that you later realized was too personal? 
 
 How can you balance being open and collaborative in online spaces (like working with others on coding projects) while still protecting your privacy?
 
-#November 4, 2024
+# November 4, 2024
 
 In today’s digital world, sharing and publishing content online is more common than ever. Whether you’re contributing to a project, posting on social media, or submitting work for class, it’s important to think about the kinds of information you’re sharing and how it can be used.
 
@@ -114,7 +114,7 @@ limit data access and sharing to only those who need it and only for the purpose
 Write a paragraph or more considering these questions. Include examples of actions you can take to safeguard your own data, and reflect on why being cautious online is important for your personal and professional life.
 Ways to protect personal data include using privacy settings, reviewing tagged posts, using strong passwords and multi-factor authentication, and being cautious with email attachments and links. There are numerous safeguards in place, including the use of technology to protect data for example by restricting access (using passwords or swipe cards to control access to data), or using encryption so the data can only be read with a code. IT systems must be kept up-to-date to protect against viruses and hacking.
 
-#November 12, 2024
+# November 12, 2024
 
 Choose a current event that interests you or impacts your community.
 

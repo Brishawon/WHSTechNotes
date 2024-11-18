@@ -128,3 +128,9 @@ In a second paragraph, reflect on how advancements in computer science or techno
 
 Make up any missing Zumi assignments.
 You must show me your completed notebook to receive credit.
+
+# November 18, 2024
+
+The holiday season is a time of celebration, which often revolves around food. From harvesting crops to transporting goods to local stores, technology plays a major role in getting our holiday meals onto our tables. Check out this video: Transforming the Food Industry with Technology.
+
+Prompt: Reflect on how technology has changed the way we grow, distribute, and purchase food. In what ways does technology make food more affordable and accessible during the holiday season? As we've seen, the integration of technology into our kitchens is revolutionizing the way we cook. Smart appliances, voice-controlled cooking, efficient storage solutions, recipe assistance, and a focus on energy efficiency are transforming the culinary experience.Jan 18, 2024. There are many benefits that technology can bring to the hospitality industry. For example, technologies like artificial intelligence (AI) chatbots can improve guest experience, mobile ordering can increase efficiency, and robots can lower staff workload and minimize costs. Are there any negative effects of relying on technology for our food supply? Write a paragraph explaining your thoughts with examples.Similarly, automation may reduce human exposure to harmful agrochemicals and dangerous equipment, but it may also decrease the number of jobs in agricultural production, resulting in more urban migration and greater urban unemployment and poverty, and ultimately in social conflict in the absence of adequate social

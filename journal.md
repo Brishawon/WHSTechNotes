@@ -134,3 +134,20 @@ You must show me your completed notebook to receive credit.
 The holiday season is a time of celebration, which often revolves around food. From harvesting crops to transporting goods to local stores, technology plays a major role in getting our holiday meals onto our tables. Check out this video: Transforming the Food Industry with Technology.
 
 Prompt: Reflect on how technology has changed the way we grow, distribute, and purchase food. In what ways does technology make food more affordable and accessible during the holiday season? As we've seen, the integration of technology into our kitchens is revolutionizing the way we cook. Smart appliances, voice-controlled cooking, efficient storage solutions, recipe assistance, and a focus on energy efficiency are transforming the culinary experience.Jan 18, 2024. There are many benefits that technology can bring to the hospitality industry. For example, technologies like artificial intelligence (AI) chatbots can improve guest experience, mobile ordering can increase efficiency, and robots can lower staff workload and minimize costs. Are there any negative effects of relying on technology for our food supply? Write a paragraph explaining your thoughts with examples.Similarly, automation may reduce human exposure to harmful agrochemicals and dangerous equipment, but it may also decrease the number of jobs in agricultural production, resulting in more urban migration and greater urban unemployment and poverty, and ultimately in social conflict in the absence of adequate social
+
+# December 2, 2024
+
+Artificial intelligence (AI) continues to shape the way we live and work. This week, research one recent development in AI or another emerging technology (e.g., quantum computing, renewable energy tech, AR/VR, etc.). Summarize what you learned and share your thoughts on how it could impact society, your future career, or daily life.
+
+2. Follow-Up Questions:
+
+• What excites or concerns you about this technology?
+A career in the tech industry offers many reasons for jobseekers to apply or consider changing careers, including the opportunity to work on innovative projects, a culture that promotes creativity and learning, and potential for job growth.
+• Can you think of an innovative way this technology could be used in your field of interest?
+"I used to work for an information technology company where I was on the innovation and development team. There, I tested our latest technologies and then reviewed their functionality.
+• What ethical considerations might need to be addressed as this technology evolves?
+Ethical considerations: With technological advancements, it's crucial to prioritize ethical considerations in the development and deployment of technology. This involves ensuring privacy protection, data security and transparency in how technology operates.
+Tip:
+
+Include the source of your research and make your response at least 5-7 sentences.
+

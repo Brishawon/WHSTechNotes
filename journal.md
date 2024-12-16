@@ -165,3 +165,7 @@ What does the term “brain rot” mean to you? Do you feel like digital media h
 How do runner-up words like “slop” and “lore” connect to your experience with technology in 2024? The way how people from a game have it on story in other universe
 In your opinion, is it possible to balance meaningful engagement with technology while avoiding “brain rot”? If so, how? brain rot is a word that probably some thing that people could call stupid but is mostly mean for people watch some weird videos.
 Please be very “demure” and very mindful in your response. You can learn more about the the Oxford word of the year here.
+
+# December 16, 2024
+
+Are you looking forward to the winter break? yes

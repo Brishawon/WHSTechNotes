@@ -169,3 +169,18 @@ Please be very “demure” and very mindful in your response. You can learn mor
 # December 16, 2024
 
 Are you looking forward to the winter break? yes
+
+# January 8, 2025
+
+Looking Back:
+
+Reflect on last semester. What did you enjoy most about the class? What could be improved? Feel free to share any specific feedback about the lessons, projects, or activities we did. like how we can do coding in the class
+
+Looking Ahead:
+
+As we start this semester, what are some topics, activities, or projects you’d like to explore? Is there anything specific you’d like to learn or work on? can we use the drone at like the last day of school
+
+Certifications:
+
+Are you interested in pursuing any certifications related to this class (e.g., Python, Unity, or other tech certifications)? If yes, what support or resources would help you feel prepared to achieve this goal? i dont really have goals but im going to try to save money
+

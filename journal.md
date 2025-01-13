@@ -184,3 +184,6 @@ Certifications:
 
 Are you interested in pursuing any certifications related to this class (e.g., Python, Unity, or other tech certifications)? If yes, what support or resources would help you feel prepared to achieve this goal? i dont really have goals but im going to try to save money
 
+# January 13, 2025
+Write a paragraph reflecting on the following: The tech industry is shifting towards prioritizing artificial intelligence (AI) skills over traditional tech roles. What are your thoughts on this shift? Do you think AI tools will enhance opportunities for workers or limit them? How would you prepare yourself for a career in a rapidly changing job market like this? a role is a thing that you get a thing if you have a job for a contest or a challange
+

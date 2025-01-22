@@ -187,3 +187,18 @@ Are you interested in pursuing any certifications related to this class (e.g., P
 # January 13, 2025
 Write a paragraph reflecting on the following: The tech industry is shifting towards prioritizing artificial intelligence (AI) skills over traditional tech roles. What are your thoughts on this shift? Do you think AI tools will enhance opportunities for workers or limit them? How would you prepare yourself for a career in a rapidly changing job market like this? a role is a thing that you get a thing if you have a job for a contest or a challange
 
+# January 22, 2025
+
+Recently, TikTok faced a potential nationwide ban in the United States due to national security concerns over its ownership by the Chinese company ByteDance. The situation raises important questions about the intersection of technology, privacy, and government regulation.
+
+Reflect on the following:
+
+How do you think government intervention impacts technology companies and their users?significantly hinders enterprises' investment in resources for technological innovation
+In your opinion, how could companies like TikTok address security concerns while continuing to operate globally? Chinese officials could manipulate the app's recommendation algorithm for influence operations.
+Imagine you’re a developer at TikTok working on a new feature to increase user privacy. Describe one feature or policy you would implement and why.Some of its key features include clarity, relevance, flexibility, accountability, and consistency.
+What lessons can you take from this situation to apply to your own projects in this course?
+Submission Instructions:Review previous lesson logs before starting a new project to identify relevant learnings that can inform the project plan and risk management strategies.
+
+Write at least TWO paragraphs responding to the prompt using clear and complete sentences.
+Include at least one reference to how this relates to concepts we’ve covered in class, such as data privacy, app development, or software ethics.Data ethics refers to the principles and practices that govern the responsible and fair use of data. It encompasses privacy, consent, transparency, and accountability, ensuring that data is collected, processed, and utilized in ways that respect individuals' rights and societal values.
+One of the most prominent ethical issues of AI with immediate ramifications is its potential to discriminate, perpetuate biases, and exacerbate existing inequalities. Because algorithms are trained on existing data, they can end up replicating unwanted patterns of unfairness due to the data they have ingested.

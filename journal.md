@@ -202,3 +202,21 @@ Submission Instructions:Review previous lesson logs before starting a new projec
 Write at least TWO paragraphs responding to the prompt using clear and complete sentences.
 Include at least one reference to how this relates to concepts we’ve covered in class, such as data privacy, app development, or software ethics.Data ethics refers to the principles and practices that govern the responsible and fair use of data. It encompasses privacy, consent, transparency, and accountability, ensuring that data is collected, processed, and utilized in ways that respect individuals' rights and societal values.
 One of the most prominent ethical issues of AI with immediate ramifications is its potential to discriminate, perpetuate biases, and exacerbate existing inequalities. Because algorithms are trained on existing data, they can end up replicating unwanted patterns of unfairness due to the data they have ingested.
+
+# january 27, 2025
+
+Four apprentice mechanics work at Rusty's Repair Shop. They are generally well-regarded by management, but last week with less supervision there were some mistakes that led to a number of angry customers. Using the clues provided, can you determine which apprentice worked on which car, and the mistake that was made?
+
+Clues
+Bart didn't work on the Sierra, nor did he leave the oil cap off.
+The four apprentices are Kayla, the one who worked on the Honda Civic, the one who left the oil cap off, and the one who left stains on the carpet.
+The receptionist was in tears after dealing with the customer who had found a hole was accidentally drilled in their gas tank (oops!). This wasn't the Sierra.
+Jimmy didn't leave the oil cap off nor leave stains on the carpet of the vehicle he worked on.
+Harrison worked on the Forester, and disliked every minute of it.
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| jimmy      | Title       | Here's this   |
+| kayla | Text        | And more      |
+| bart     | Title       | Here's this   |
+| harrison   | Text        | And more      |

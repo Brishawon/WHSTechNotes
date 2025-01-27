@@ -214,9 +214,9 @@ The receptionist was in tears after dealing with the customer who had found a ho
 Jimmy didn't leave the oil cap off nor leave stains on the carpet of the vehicle he worked on.
 Harrison worked on the Forester, and disliked every minute of it.
 
-| Syntax      | Description | Test Text     |
+| Name     | Car| Mistake    |
 | :---        |    :----:   |          ---: |
-| jimmy      | Title       | Here's this   |
-| kayla | Text        | And more      |
-| bart     | Title       | Here's this   |
-| harrison   | Text        | And more      |
+| jimmy      |   Honda Civic    | Drilled Hole In Gas Tank  |
+| kayla |   GMC Sierra     |  Fixed Wrong Problem     |
+| bart     |   Toyota Corolla   | Left Stains On Carpet   |
+| harrison   |    	Subaru Forester    |   Left The Oil Cap Off    |

@@ -220,3 +220,21 @@ Harrison worked on the Forester, and disliked every minute of it.
 | kayla |   GMC Sierra     |  Fixed Wrong Problem     |
 | bart     |   Toyota Corolla   | Left Stains On Carpet   |
 | harrison   |    	Subaru Forester    |   Left The Oil Cap Off    |
+
+# feburary 3, 2025
+
+On January 29, a tragic mid-air collision occurred over Washington, D.C., claiming the lives of 67 people, including military personnel and young athletes returning from a competition. While we mourn this loss, tragedies like this also push us to examine what went wrong and how we can prevent similar events in the future. In aviation, technology plays a crucial role in ensuring safety—yet when systems fail, the consequences can be devastating.
+
+Technology is a key part of modern aviation, from air traffic control systems to automated flight assistance. However, even the most advanced systems can fail. Based on the recent mid-air collision over Washington, D.C., discuss how Computer Science contributes to aviation safety. Consider software development, automation, cybersecurity, or human-computer interaction. What improvements could be made to prevent accidents like this in the future?
+
+Possible Connections to Computer Science
+
+Air Traffic Control Systems – How do computer algorithms manage airspace and prevent collisions? is an aircraft collision avoidance system designed to reduce the incidence of mid-air collision (MAC) between aircraft.
+Automation & AI in Aviation – The role of autopilot systems, real-time alerts, and AI-driven decision-making. constantly monitoring each user's software, hardware, and network, recognizing anomalies in real time, predicting potential issues, and taking preemptive action.
+Software Errors & Bugs – How can coding flaws or miscommunication between different software systems contribute to accidents? hardware to infiltrate and initiate a denial-of-service (DoS) attack or install malware, such as spyware, ransomware, Trojan horses, worms, or viruses.
+Human-Computer Interaction (HCI) – Did poor interface design or unclear alerts play a role in the crash? The consequences of bad UI/UX design include poor user experience leading to frustration and low engagement, decreased credibility and increased workload for designers, 
+Cybersecurity in Aviation – Could hacking, jamming, or cyber vulnerabilities pose risks in air traffic management? It can lead to flight delays or cancellations, damage to reputation, loss of customer trust and financial losses.
+Big Data & Predictive Analytics – How could machine learning be used to predict and prevent accidents? If a machine malfunctions or detects a danger, intelligent systems can instantly analyze the data and shut it down.
+Write two (2) paragraphs exploring how technology can integration can provided for increased aviation safety. You can use one or more of the six areas listed above, or you can choose another relevant topic of your interest.
+Some modern technological advancements that have been developed and utilized for the sole purpose of enhancing aviation safety include airborne collision avoidance systems, satellite-based solar ships, space-based platform monitoring, heads-up display, global positioning system, synthetic vision systems, enhancedTechnology on new aircraft can either improve fuel burn through aerodynamic efficiency (mainly airframe), or reduce actual combustion use (mainly engine-related). Combined, these elements create a new aircraft with a reduced environmental impact.
+Flight deck automation began with the first autopilot more than a century ago and today's cockpits are highly automated. Sophisticated flight management, navigation, communications, hazard avoidance, auto-land and other innovative systems improve situational awareness and optimize performance.With the technological advancements, cockpits now include more sophisticated avionics systems, such as glass cockpits equipped with digital displays. These systems have the capability of providing pilots with information in real time on navigation, weather conditions, and the performance of the aircraft.

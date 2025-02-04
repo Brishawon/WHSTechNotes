@@ -221,7 +221,7 @@ Harrison worked on the Forester, and disliked every minute of it.
 | bart     |   Toyota Corolla   | Left Stains On Carpet   |
 | harrison   |    	Subaru Forester    |   Left The Oil Cap Off    |
 
-# feburary 3, 2025
+# february 3, 2025
 
 On January 29, a tragic mid-air collision occurred over Washington, D.C., claiming the lives of 67 people, including military personnel and young athletes returning from a competition. While we mourn this loss, tragedies like this also push us to examine what went wrong and how we can prevent similar events in the future. In aviation, technology plays a crucial role in ensuring safety—yet when systems fail, the consequences can be devastating.
 

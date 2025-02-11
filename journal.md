@@ -238,3 +238,22 @@ Big Data & Predictive Analytics – How could machine learning be used to predic
 Write two (2) paragraphs exploring how technology can integration can provided for increased aviation safety. You can use one or more of the six areas listed above, or you can choose another relevant topic of your interest.
 Some modern technological advancements that have been developed and utilized for the sole purpose of enhancing aviation safety include airborne collision avoidance systems, satellite-based solar ships, space-based platform monitoring, heads-up display, global positioning system, synthetic vision systems, enhancedTechnology on new aircraft can either improve fuel burn through aerodynamic efficiency (mainly airframe), or reduce actual combustion use (mainly engine-related). Combined, these elements create a new aircraft with a reduced environmental impact.
 Flight deck automation began with the first autopilot more than a century ago and today's cockpits are highly automated. Sophisticated flight management, navigation, communications, hazard avoidance, auto-land and other innovative systems improve situational awareness and optimize performance.With the technological advancements, cockpits now include more sophisticated avionics systems, such as glass cockpits equipped with digital displays. These systems have the capability of providing pilots with information in real time on navigation, weather conditions, and the performance of the aircraft.
+
+# February 11, 2025
+
+For this week's journal you may choose either the logic puzzle or the writing prompt. You do not have to do both!
+
+If you choose the logic puzzle, submit the solution to the puzzle as a Markdown Table.
+If you choose the writing prompt, you response needs to be at least TWO paragraphs.
+Writing Prompt
+The Super Bowl generates massive amounts of data, from player stats to real-time analytics used for coaching decisions. Many teams use machine learning and AI to analyze past performances and predict the best plays.
+
+Imagine you are a software developer working for an NFL team. Your task is to design an application that helps coaches make better in-game decisions using real-time data. Write TWO paragraphs explaining your idea. If you're not sure where to start, consider the following:
+
+1. What features would your application include? tryout and traning.
+
+2. What type of data structures (e.g., lists, dictionaries, databases) would you use to store player performance statistics? yes because people want to see the better player.
+
+3. How could algorithms (such as sorting, searching, or machine learning models) help analyze the data to improve decision-making? recognizing intricate patterns and relationships within vast datasets.
+
+4. If you were to visualize the data, what kind of graphs or dashboards would you create? line charts to show trends over time, bar charts for comparisons between categories, scatter plots to analyze correlations between variables,

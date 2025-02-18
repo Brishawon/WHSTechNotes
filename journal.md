@@ -257,3 +257,7 @@ Imagine you are a software developer working for an NFL team. Your task is to de
 3. How could algorithms (such as sorting, searching, or machine learning models) help analyze the data to improve decision-making? recognizing intricate patterns and relationships within vast datasets.
 
 4. If you were to visualize the data, what kind of graphs or dashboards would you create? line charts to show trends over time, bar charts for comparisons between categories, scatter plots to analyze correlations between variables,
+
+# February 18, 2025
+
+What's the most interesting thing you learned last week?nothingish It could be from this class, another subject, a conversation, a YouTube video, or even something you discovered on your own. Explain what it was, how you learned it, and why you found it interesting.

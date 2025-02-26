@@ -262,7 +262,7 @@ Imagine you are a software developer working for an NFL team. Your task is to de
 
 What's the most interesting thing you learned last week?nothingish It could be from this class, another subject, a conversation, a YouTube video, or even something you discovered on your own. Explain what it was, how you learned it, and why you found it interesting.
 
-# February 24, 2024
+# February 24, 2025
 
 Language evolves rapidly, and slang plays a major role in how young people communicate. For teachers, counselors, social workers, and other professionals who work with youth, understanding slang can help build connections and improve communication. Consider the following:
 

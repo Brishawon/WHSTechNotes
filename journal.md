@@ -284,4 +284,4 @@ Write two paragraphs exploring how technology could bridge generational language
 |Aether|Weather Manipulation|Prevent Assassination|
 |Thorne|Invisibility        |	Underwater Rescue   |
 |Silver|	Mind Control       |Retrieve Stolen Goods|
-|Tangier| |Shapeshifting|Extract Prisoner|
+|Tangier|Shapeshifting|Extract Prisoner|

@@ -275,3 +275,12 @@ Should schools or youth organizations formally track and teach appropriate slang
 How might misunderstandings of slang impact interactions between adults and youth in schools, counseling, or mentoring programs?t can lead to misunderstandings or miscommunications (54%). It may disrupt the learning environment (50%). It diminishes formal writing skills (41%).
 
 Write two paragraphs exploring how technology could bridge generational language gaps while maintaining professionalism and cultural awareness.DAP is an acronym for Digital Adoption Platform. DAP is a software platform that is designed to ensure seamless software learning and adoption by simplifying the user experience on any platform, app or website.There are four different types of gaps: common gaps, breakaway gaps, runaway gaps, and exhaustion gaps; each with its own signal to traders. Gaps are easy to spot, but determining the type of gap is much harder to figure out.A breakaway gap is a gap that occurs when price breaks out of a price pattern, either on the upside or on the downside. Runaway gaps are those gaps that appear when the price is strongly trending in one direction, up or down. These gaps usually appear somewhere around the middle of the ongoing trend.
+
+# March 3, 2025
+
+|Name|Power|Challenge|
+|Zara|Telekenesis|Secure Building|
+|Aether|Weather Manipulation|Prevent Assassination|
+|Thorne|Invisibility|	Underwater Rescue|
+|Silver|	Mind Control|Retrieve Stolen Goods|
+Tangier||Shapeshifting|Extract Prisoner|

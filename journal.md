@@ -279,8 +279,9 @@ Write two paragraphs exploring how technology could bridge generational language
 # March 3, 2025
 
 |Name|Power|Challenge|
-|Zara|Telekenesis|Secure Building|
+|---|------------|-----|
+|Zara  |Telekenesis         |Secure Building      |
 |Aether|Weather Manipulation|Prevent Assassination|
-|Thorne|Invisibility|	Underwater Rescue|
-|Silver|	Mind Control|Retrieve Stolen Goods|
-Tangier||Shapeshifting|Extract Prisoner|
+|Thorne|Invisibility        |	Underwater Rescue   |
+|Silver|	Mind Control       |Retrieve Stolen Goods|
+|Tangier| |Shapeshifting|Extract Prisoner|

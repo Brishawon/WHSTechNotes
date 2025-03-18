@@ -285,3 +285,18 @@ Write two paragraphs exploring how technology could bridge generational language
 |Thorne|Invisibility        |	Underwater Rescue   |
 |Silver|	Mind Control       |Retrieve Stolen Goods|
 |Tangier|Shapeshifting|Extract Prisoner|
+
+# March 17, 2025
+
+1. Journal Prompt: Technology Over Spring Break
+Over spring break, you likely used technology in different ways—whether for entertainment, communication, creativity, or learning. Reflect on how you interacted with technology during your time off.my mom went to buy ticket for the movies and went to watch
+
+What types of technology did you use most often? (Examples: apps, games, programming tools, robotics, social media, etc.)
+How did this technology help you, entertain you, or challenge you in some way?These technologies include video games, virtual worlds, online role-playing games and recreational social networking technologies.
+Can you connect any of your technology use to what we learn in this class? Think about problem-solving, coding, game development, app functionality, or other related skills.Power Points and Games
+Write at least two full paragraphs responding to these questions. Be specific in your examples and connections.
+
+3. Grades
+Friday, March 21st is the end of the grading period—which means all missing assignments must be submitted by this date in order for you to receive credit.
+There are over 30 journal entries that I cannot grade because the headings are not properly formatted. Check Skyward to make sure you have a grade for all journals you've completed. Also, check your journal to make sure you've written your dates correctly.
+You must email me if you complete any missing work. I will not know you've turned in late work if you do not send me an email informing me.

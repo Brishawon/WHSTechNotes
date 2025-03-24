@@ -300,3 +300,7 @@ Write at least two full paragraphs responding to these questions. Be specific in
 Friday, March 21st is the end of the grading period—which means all missing assignments must be submitted by this date in order for you to receive credit.
 There are over 30 journal entries that I cannot grade because the headings are not properly formatted. Check Skyward to make sure you have a grade for all journals you've completed. Also, check your journal to make sure you've written your dates correctly.
 You must email me if you complete any missing work. I will not know you've turned in late work if you do not send me an email informing me.
+
+# March 24, 2025
+
+Students will reflect on the role of technology in modern sports by responding to a journal prompt about March Madness innovations using evidence and reasoning.Teams use sophisticated algorithms and databases to analyse player performance and enhance game strategies

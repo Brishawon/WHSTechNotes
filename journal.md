@@ -304,3 +304,18 @@ You must email me if you complete any missing work. I will not know you've turne
 # March 24, 2025
 
 Students will reflect on the role of technology in modern sports by responding to a journal prompt about March Madness innovations using evidence and reasoning.Teams use sophisticated algorithms and databases to analyse player performance and enhance game strategies
+
+# March 24, 2025
+
+How are you feeling right now—mentally, emotionally, and physically? Regular physical activity can relieve stress, anxiety, depression and anger. 
+
+What’s been the most stressful part of school lately? Lately, the most stressful parts of school seem to be the pressure to get good grades, balancing schoolwork with extracurricular activities, 
+
+What are some things you do (or could do) to take care of yourself during stressful times?
+Get active. Almost any form of physical activity can act as a stress reliever. ...
+Eat a healthy diet. Eating a healthy diet is an important part of taking care of yourself. ...
+Avoid unhealthy habits. ...
+Meditate
+What’s one goal you have for the rest of the school year? How will you stay motivated to reach it? Break your goal into small, easy tasks and set regular reminders to complete each step.
+
+Who is someone you can talk to when you’re feeling overwhelmed? Why do you trust them? try talking about your feelings to a friend, family member or health professional.

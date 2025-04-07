@@ -319,3 +319,12 @@ Meditate
 What’s one goal you have for the rest of the school year? How will you stay motivated to reach it? Break your goal into small, easy tasks and set regular reminders to complete each step.
 
 Who is someone you can talk to when you’re feeling overwhelmed? Why do you trust them? try talking about your feelings to a friend, family member or health professional.
+
+April 7, 2025
+
+About learning from an app versus a teacher in the classroom, he said, "Basically, just a teacher in the classroom, it's kind of hard to like, to remember everything, and they just say it once. And if you get the question wrong, they don't just go back over it then. And then they just go to the next question. But in academics, you just do like if you get a question wrong, [the app] gives you an explanation of how to get it correct for the next question. And that helps you."
+
+The Alpha School has since grown to K-12 and has since launched three additional schools who use the same academic framework.
+
+Price says at the end of the day, it's all about having children become successful academically, developing life skills and most importantly loving their time at school.
+"We had a fear of whether this is going to work. And it's hard to, you know, hard to create science experiments with your kids and accept that you're going to throw them into this environment. Will they lose a year? But they have it. It's working. It's working for all the kids at the school. There's no one that it isn't working for," said Jensen.

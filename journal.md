@@ -320,7 +320,7 @@ What’s one goal you have for the rest of the school year? How will you stay mo
 
 Who is someone you can talk to when you’re feeling overwhelmed? Why do you trust them? try talking about your feelings to a friend, family member or health professional.
 
-April 7, 2025
+# April 7, 2025
 
 About learning from an app versus a teacher in the classroom, he said, "Basically, just a teacher in the classroom, it's kind of hard to like, to remember everything, and they just say it once. And if you get the question wrong, they don't just go back over it then. And then they just go to the next question. But in academics, you just do like if you get a question wrong, [the app] gives you an explanation of how to get it correct for the next question. And that helps you."
 

@@ -328,3 +328,10 @@ The Alpha School has since grown to K-12 and has since launched three additional
 
 Price says at the end of the day, it's all about having children become successful academically, developing life skills and most importantly loving their time at school.
 "We had a fear of whether this is going to work. And it's hard to, you know, hard to create science experiments with your kids and accept that you're going to throw them into this environment. Will they lose a year? But they have it. It's working. It's working for all the kids at the school. There's no one that it isn't working for," said Jensen.
+
+# April 14, 2024
+
+Florida has enacted laws banning student cell phone use throughout the school day and restricting access to social media on school networks. Supporters argue these measures reduce distractions and cyberbullying, while opponents raise concerns about emergency communication and student autonomy. Read about Florida’s new legislation banning student cell phone use during the entire school day and restricting access to social media on school Wi-Fi:
+
+The student body in Broward County public schools, from kindergarten through the 12th grade, is about a quarter of a million students. According to data that was shared with their school board, fewer than 1,000 violations of the new policy were found during the fall, making some people question how necessary a ban was in the first place.
+Hepburn said that during his educational career, he’s watched students go from no cells phones, to basic flip phones that could only call and text, to today’s smartphones. In that time, he said, he’s seen a lot more cyberbullying and physical altercations between students as a result.

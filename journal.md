@@ -335,3 +335,10 @@ Florida has enacted laws banning student cell phone use throughout the school da
 
 The student body in Broward County public schools, from kindergarten through the 12th grade, is about a quarter of a million students. According to data that was shared with their school board, fewer than 1,000 violations of the new policy were found during the fall, making some people question how necessary a ban was in the first place.
 Hepburn said that during his educational career, he’s watched students go from no cells phones, to basic flip phones that could only call and text, to today’s smartphones. In that time, he said, he’s seen a lot more cyberbullying and physical altercations between students as a result.
+
+# April 28, 2025
+| Name  | Flavor |Occasion | Price |
+| ----------- | ----------- |------------|--------------|
+|Sally|chocolate|Graduation|$35.00|
+|Michael|vanilla|Farewell Party|	$37.00|
+|emma|carrot|Birthday|$39.00|

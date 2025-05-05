@@ -337,8 +337,20 @@ The student body in Broward County public schools, from kindergarten through the
 Hepburn said that during his educational career, he’s watched students go from no cells phones, to basic flip phones that could only call and text, to today’s smartphones. In that time, he said, he’s seen a lot more cyberbullying and physical altercations between students as a result.
 
 # April 28, 2025
+
 | Name  | Flavor |Occasion | Price |
 | ----------- | ----------- |------------|--------------|
 |Sally|chocolate|Graduation|$35.00|
 |Michael|vanilla|Farewell Party|	$37.00|
 |emma|carrot|Birthday|$39.00|
+
+# May 5, 2025
+
+A challenge called “100 Men vs 1 Gorilla” went viral after a famous YouTuber suggested testing it. The idea: could 100 unarmed people defeat a silverback gorilla? Some people say yes with strategy; others say it’s impossible. Write two paragraphs considering the following:
+
+Do you think the 100 people could win? Why or why not? Use logic, facts, and your own reasoning.
+It's impossible to say definitively whether 100 people could "win" in any given situation without more context.
+Do you think it’s responsible to make this kind of challenge go viral? What might people learn from it—or misunderstand?
+Recognition and Fame : Achieving viral status can lead to increased recognition and a sense of accomplishment.
+What does this say about how trends spread online? Is there a connection between entertainment and education?
+The influence of social media in education is undeniable. 

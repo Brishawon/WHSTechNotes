@@ -354,3 +354,8 @@ Do you think it’s responsible to make this kind of challenge go viral? What mi
 Recognition and Fame : Achieving viral status can lead to increased recognition and a sense of accomplishment.
 What does this say about how trends spread online? Is there a connection between entertainment and education?
 The influence of social media in education is undeniable. 
+
+# May 12, 2025
+
+Sexist humor essentially stretched the rubber band; it expanded the bounds of acceptable behavior to include responses that would otherwise be considered wrong or inappropriate. So, in this context of expanded acceptability, sexist men felt free to express their antagonism without the risk of violating social norms and facing disapproval from others. Sexist humor signaled that it’s safe to express sexist attitudes.
+An important implication of these findings is that disparagement humor can be more or less detrimental based on the social position occupied by the targeted groups. Movies, television programs or comedy clips that humorously disparage groups such as gays, Muslims or women can potentially foster discrimination and social injustice, whereas those that target groups such as racists will have little social consequence.

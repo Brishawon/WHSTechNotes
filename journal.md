@@ -359,3 +359,8 @@ The influence of social media in education is undeniable.
 
 Sexist humor essentially stretched the rubber band; it expanded the bounds of acceptable behavior to include responses that would otherwise be considered wrong or inappropriate. So, in this context of expanded acceptability, sexist men felt free to express their antagonism without the risk of violating social norms and facing disapproval from others. Sexist humor signaled that it’s safe to express sexist attitudes.
 An important implication of these findings is that disparagement humor can be more or less detrimental based on the social position occupied by the targeted groups. Movies, television programs or comedy clips that humorously disparage groups such as gays, Muslims or women can potentially foster discrimination and social injustice, whereas those that target groups such as racists will have little social consequence.
+
+# May 19, 2025
+
+Social media companies, for example, promise to broaden our networks—log into Facebook and you may be told you have hundreds of friends. But when you stop and reflect on how many of those people you’ve actually interacted with in the past year—or have any desire to interact with in the first place—you may decide that interpersonal connection through technology is a false promise. 
+Students in particular are easily lured by the siren song of technology. They see platforms like Google and ChatGPT as sources of knowledge to be tapped into, eagerly looking for video explanations when they encounter a difficult problem or asking AI for answers to their questions.

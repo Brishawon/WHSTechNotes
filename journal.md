@@ -365,7 +365,7 @@ An important implication of these findings is that disparagement humor can be mo
 Social media companies, for example, promise to broaden our networks—log into Facebook and you may be told you have hundreds of friends. But when you stop and reflect on how many of those people you’ve actually interacted with in the past year—or have any desire to interact with in the first place—you may decide that interpersonal connection through technology is a false promise. 
 Students in particular are easily lured by the siren song of technology. They see platforms like Google and ChatGPT as sources of knowledge to be tapped into, eagerly looking for video explanations when they encounter a difficult problem or asking AI for answers to their questions.
 
-# September 2, 2025\
+# September 2, 2025
 
 Option 1: The New Cell Phone Law
 What are your thoughts on the new school cell phone law? How are you adjusting to it, and what challenges or benefits do you see for students and teachers? the law is kinda stupid because the only thing why they go the phon rid of because we are trying to be the number 1 school

@@ -375,3 +375,11 @@ Option 2: Vibe Coding with AI
 
 Option 3: Computer Science Expectations
 What did you think computer science was before starting this class? Has your view changed so far? What do you hope to get from this course? coding and it was confusing
+
+# September 8, 2025
+
+The more that you know how to do coding in computer science it will change how your life goes.
+the way how you can animated your skills could be helpful.
+the reason why you should do these thing is how it can get you money for a community.
+if you play like skech is you create anything you want.
+a site that you like to see is a site that you want to make in reality.

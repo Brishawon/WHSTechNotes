@@ -383,3 +383,11 @@ the way how you can animated your skills could be helpful.
 the reason why you should do these thing is how it can get you money for a community.
 if you play like skech is you create anything you want.
 a site that you like to see is a site that you want to make in reality.
+
+# September 15, 2025
+
+Ai could make mistake over something
+it is good because it uses google in an exact way
+it can pull up evidence and other stuff
+it can make any thing for you but make sure dont make the wrong mistake
+for ai to be better it needed to get inprove more

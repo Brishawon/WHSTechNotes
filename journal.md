@@ -391,3 +391,11 @@ it is good because it uses google in an exact way
 it can pull up evidence and other stuff
 it can make any thing for you but make sure dont make the wrong mistake
 for ai to be better it needed to get inprove more
+
+# September 22, 2025
+
+for an co worker gaame that you can have experience in a ikea is great.
+you can tell how it can work if you was at the store and the rules
+but you probably could not what you can do ibn game but in real life
+not for kid but it for teenager.
+could probably make actual money off of it if you know what going on

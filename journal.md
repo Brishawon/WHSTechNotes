@@ -408,3 +408,11 @@ an everyone is saying it during the day everyday.
 it was tooken place at the gym from an tortament.
 it was not the same when it was a vid.
 it was poorly a number that was a brain wash number ok.
+
+# October 6, 2025
+
+ai would be allow but male your own sentence
+you can play games but you have to finish your work
+i will unblock every game website
+the chrombooks will have good stuff that people want
+you can use ai if you are strugguling on a question

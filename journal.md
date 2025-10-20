@@ -423,7 +423,7 @@ Topic: Photosynthesis (Biology)
 
 Photosynthesis is the process by which green plants make their own food using sunlight, carbon dioxide, and water. It takes place mainly in the leaves, inside tiny structures called chloroplasts that contain chlorophyll. During this process, plants convert light energy into chemical energy stored in glucose. Oxygen is released as a byproduct, which is essential for most living organisms. This process is vital because it forms the base of the food chain and maintains the balance of oxygen and carbon dioxide in the atmosphere.
 
-
+# October 20, 2025
 
 | Name     | Car| Mistake    |
 | :---        |    :----:   |          ---: |

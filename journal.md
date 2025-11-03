@@ -438,3 +438,11 @@ Photosynthesis is the process by which green plants make their own food using su
 |  Fiona   |   Gado Gado   |	Creme Brulee|
 | Tobias |   Shrimp Ceviche     |	French Apple Cake|
 | Leanne|   	Beef Wellington     |	Raspberry Tiramisu	|
+
+# November 3, 2025
+
+the snap whas out of funding and it was one of the biggest deals ever.
+the tech could help people with ideas with your imagination.
+the challenges that might exist is try to get a team and make ideas of an product.
+i will make a disign that is pretty standard for a good shop.
+i think the snap will get improvement that can be good.

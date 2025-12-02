@@ -458,3 +458,11 @@ you can do holiday edition app for limited time
 # November 17, 2025
 
 Yes because i want to just eat food
+
+# December 1, 2025
+
+Drones are always going to be usful in any way.
+There is one job that you can that you can do it from filming a car going down the road.
+You can make a drone but it required coding.
+if you want to get payed it has to be 100$
+i will do this as a job because it looks fun to do things that it like as a job.

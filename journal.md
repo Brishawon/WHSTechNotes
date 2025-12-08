@@ -466,3 +466,11 @@ There is one job that you can that you can do it from filming a car going down t
 You can make a drone but it required coding.
 if you want to get payed it has to be 100$
 i will do this as a job because it looks fun to do things that it like as a job.
+
+# December 8, 2025
+
+AI will not have a good use to drive or anything.
+they will probably change the role of driving and AI does not what to do.
+if it want to be good it have to have some warning to it.
+you can get an error or wanings.
+it may think you have low ful but it already full.

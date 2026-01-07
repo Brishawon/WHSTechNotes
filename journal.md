@@ -478,3 +478,7 @@ it may think you have low ful but it already full.
 # December 15, 2025
 
 IM GOING TO HAVE VERY MUCH FUN
+
+# January 6, 2026
+
+I use my tecnology by rather watching youtube or playing a game on the game with my friends

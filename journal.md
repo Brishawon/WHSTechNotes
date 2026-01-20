@@ -483,3 +483,10 @@ IM GOING TO HAVE VERY MUCH FUN
 
 Im using my free grade
 
+# January 20, 2026
+
+He was one of the leaders from a group called SCLC
+He did a speech that said i had a dream
+He made schools had better by making the blacks and whites had the same school
+He mad a day that it was his birthday and people celebrated it.
+He had a famous quote that is “I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.” 

@@ -489,4 +489,8 @@ He was one of the leaders from a group called SCLC
 He did a speech that said i had a dream
 He made schools had better by making the blacks and whites had the same school
 He mad a day that it was his birthday and people celebrated it.
-He had a famous quote that is “I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.” 
+He had a famous quote that is “I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.”
+
+# January 29, 2026
+
+the test i took was both a math and reading TSI it was an ok test, it felt like it was some and hard question about the preformance i think i did ok on the test. I didn't struggle with some of the question i just try my best with the questions i see. it will help me if i read the question careful.

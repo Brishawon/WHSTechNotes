@@ -494,3 +494,9 @@ He had a famous quote that is “I have a dream that my four little children wil
 # January 29, 2026
 
 the test i took was both a math and reading TSI it was an ok test, it felt like it was some and hard question about the preformance i think i did ok on the test. I didn't struggle with some of the question i just try my best with the questions i see. it will help me if i read the question careful.
+
+# February 10, 2026
+
+1.I like the football because you can get agresive
+2. no but i seen clips
+3. i think it went good for the sea hawks

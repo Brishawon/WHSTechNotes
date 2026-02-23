@@ -500,3 +500,8 @@ the test i took was both a math and reading TSI it was an ok test, it felt like 
 1.I like the football because you can get agresive
 2. no but i seen clips
 3. i think it went good for the sea hawks
+
+# February 23, 2026
+
+The tecnology i will usd is my own
+reason why is i could go on any site, on theres is will have options on it.

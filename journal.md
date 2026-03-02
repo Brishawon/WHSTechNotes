@@ -505,3 +505,18 @@ the test i took was both a math and reading TSI it was an ok test, it felt like 
 
 The tecnology i will usd is my own
 reason why is i could go on any site, on theres is will have options on it.
+
+# March 2, 2026
+
+Computer Technician
+Qualifications
+Candidate must have satisfactory outcome of fingerprinting background check
+Extensive knowledge of Microsoft and Mac OS in regards to installation, configuration and maintenance
+Understanding of mechanical, electronic and computer principles as applied to the repair and maintenance of computers and peripherals
+19 more items(s)
+
+Information Technology Support Technician
+The IT Support Technician requires a technical professional with experience supporting customers through provisioning/de-provisioning and maintenance of multiple hardware platforms and their related software
+Break/Fix
+Imaging computers and deploying software
+6 more items(s)

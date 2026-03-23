@@ -517,6 +517,25 @@ Understanding of mechanical, electronic and computer principles as applied to th
 
 Information Technology Support Technician
 The IT Support Technician requires a technical professional with experience supporting customers through provisioning/de-provisioning and maintenance of multiple hardware platforms and their related software
-Break/Fix
-Imaging computers and deploying software
-6 more items(s)
+
+# March 23, 2026
+
+Job #1
+Company:Gonzaba Medical Group
+Job Title:Technician
+Education Required:Experience with electronic medical record systems
+Experience Required:Minimum high school education or equivalent
+Degree of Certification in related field or 3 years hands-on experience
+Skills / Tools / Languages:a good laptop and english
+Certifications (if any):A non-exempt position responsible for providing technical assistance and support to employees concerning computer hardware and software problems, troubleshooting, and training
+What the job does (1–2 sentences):Work Environment
+Works primarily in an office setting and periodically in a clinical environment. Exposure to communicable diseases, bodily fluids, toxic substances, ionizing radiation, medicinal preparations, and other conditions common to a clinic environment.
+
+Job #2
+Company:Reboot Monkey
+Job Title:Data Center Technician - United States - Gillette - On-site
+Education Required:$60,000-75,000/year (USD annual)
+Experience Required:3+ years data center operations experience
+Skills / Tools / Languages:a good laptop and english
+Certifications (if any):Shift differentials for nights/weekends when applicable
+What the job does (1–2 sentences):Tech jobs offer high salaries, flexibility, and rapid career growth, but often at the cost of high stress, burnout, and the necessity of constant, rapid learning. While offering creativity and innovation, the industry is increasingly competitive, demanding

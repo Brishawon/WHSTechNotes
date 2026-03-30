@@ -502,7 +502,6 @@ the test i took was both a math and reading TSI it was an ok test, it felt like 
 3. i think it went good for the sea hawks
 
 # February 23, 2026
-
 The tecnology i will usd is my own
 reason why is i could go on any site, on theres is will have options on it.
 
@@ -539,3 +538,9 @@ Experience Required:3+ years data center operations experience
 Skills / Tools / Languages:a good laptop and english
 Certifications (if any):Shift differentials for nights/weekends when applicable
 What the job does (1–2 sentences):Tech jobs offer high salaries, flexibility, and rapid career growth, but often at the cost of high stress, burnout, and the necessity of constant, rapid learning. While offering creativity and innovation, the industry is increasingly competitive, demanding
+
+# March 30, 2026
+
+Claim:base on a single elimination from the best player that is doing good. this could do to some contraversitys over the game.
+Evidence: over a single elimination underdogs often win. some player have autism an they will often win games.
+Reasoning: the want to get the fans reactions so they can possibvly go to there games so they can make more money. 

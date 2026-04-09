@@ -544,3 +544,8 @@ What the job does (1–2 sentences):Tech jobs offer high salaries, flexibility, 
 Claim:base on a single elimination from the best player that is doing good. this could do to some contraversitys over the game.
 Evidence: over a single elimination underdogs often win. some player have autism an they will often win games.
 Reasoning: the want to get the fans reactions so they can possibvly go to there games so they can make more money. 
+
+# April 9, 2026
+
+I will cause an argument that didn't mean about ai. ai will mostly will know everything you say. they will not to be any emotions into an argument.
+I will not put things step by step i will roll whatr i got. aI will see anything that i said earlyer. it will be a good or bad solution

@@ -548,4 +548,7 @@ Reasoning: the want to get the fans reactions so they can possibvly go to there 
 # April 9, 2026
 
 I will cause an argument that didn't mean about ai. ai will mostly will know everything you say. they will not to be any emotions into an argument.
-I will not put things step by step i will roll whatr i got. aI will see anything that i said earlyer. it will be a good or bad solution
+I will not put things step by step i will roll what i got. AI will see anything that i said earlyer. it will be a good or bad solution
+
+# April 13, 2026
+The mission help the way that they are trained in a pool with a space chuttle under water. They had a simulation of them in space or in the ship. they had stuff organize of where they had to go to the restroom or had a place of where they eat. They had a safty guided where people where watching them from earth. when they got out of space they had to go in a part the room where they eject from the space station.

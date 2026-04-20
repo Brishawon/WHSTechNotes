@@ -552,3 +552,7 @@ I will not put things step by step i will roll what i got. AI will see anything 
 
 # April 13, 2026
 The mission help the way that they are trained in a pool with a space chuttle under water. They had a simulation of them in space or in the ship. they had stuff organize of where they had to go to the restroom or had a place of where they eat. They had a safty guided where people where watching them from earth. when they got out of space they had to go in a part the room where they eject from the space station.
+
+# April 20, 2026
+
+AI music could lose the talent of music, it could be figure out from people making money from ai, it can cause an argument where ai can make music and could get sued

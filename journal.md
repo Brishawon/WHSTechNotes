@@ -561,3 +561,11 @@ AI music could lose the talent of music, it could be figure out from people maki
 # April 27, 2026
 
 For the music with AI it could come with funny or with viral moment. It ca
+
+# May 6, 2026
+
+NBA playoffs are when when players are getting drafted for the playoffs.
+People get hype if there player get drafted.
+Then people go in the internet to be happy for the way they can win or not.
+some of people would be playing game about basketball but not intrested at it.
+some game could be excided over what teams are going against eachother.

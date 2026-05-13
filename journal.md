@@ -569,3 +569,7 @@ People get hype if there player get drafted.
 Then people go in the internet to be happy for the way they can win or not.
 some of people would be playing game about basketball but not intrested at it.
 some game could be excided over what teams are going against eachother.
+
+# May 11, 2026
+
+from school being god for people can learn i think it can be helpful if you have all the knolege in your head. for my years i try to do my work everyday but i alwways get distracted. i try being a good student from doing my work and help others. i try to be funny but always be the same. but i do anything i do so i can pass.
